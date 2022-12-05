@@ -195,7 +195,7 @@ function ToDoList() {
             marginTop: "15px",
             color: "red",
             fontWeight: 600,
-            fontSize: 30,
+            fontSize: 35,
           }}
         >
           {errors?.extraError?.message}
